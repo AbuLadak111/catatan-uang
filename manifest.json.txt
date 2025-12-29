@@ -1,0 +1,8 @@
+{
+  "name": "Catatan Uang",
+  "short_name": "Keuangan",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff"
+}
